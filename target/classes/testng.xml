@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="TestNG1">
+        <classes>
+            <class name="BaiduiSearch"></class>
+        </classes>
+    </test>
+</suite>
